@@ -226,7 +226,7 @@ span img {
   .burger {
     display: block;
     border: none;
-    background: #fff;
+    background: none;
     padding: 4px;
     border-radius: 5px;
   }
